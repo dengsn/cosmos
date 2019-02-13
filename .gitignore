@@ -1,0 +1,7 @@
+# Project related folders
+/examples/
+/resources/
+
+# Python cache and compiled files
+*.pyc
+__pycache__/
